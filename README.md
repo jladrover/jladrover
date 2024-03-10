@@ -7,9 +7,7 @@
 
 ### 📫 How to reach me:
 
-Email: [ja4146@nyu.edu](mailto:ja4146@nyu.edu)
-
- Linkedin: [linkedin.com/in/jladrover](https://www.linkedin.com/in/jladrover)
+Email: [ja4146@nyu.edu](mailto:ja4146@nyu.edu) or Linkedin: [linkedin.com/in/jladrover](https://www.linkedin.com/in/jladrover)
 
 🙇‍♂️ Feel free to message me.
 
