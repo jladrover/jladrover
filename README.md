@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Jean 👋
+#
 
-<!--
-**jladrover/jladrover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🔭 I’m currently working on NLP research regarding multilingual Named Entity**
 
-Here are some ideas to get you started:
+**🌱 I’m currently learning about machine translation, software testing, and continuous integration.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+
+Email: [ja4146@nyu.edu](mailto:ja4146@nyu.edu)
+
+ LinkedIn: [Jean's LinkedIn](https://www.linkedin.com/in/jladrover)
+
+🙇‍♂️ Feel free to message me.
