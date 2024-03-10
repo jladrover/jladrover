@@ -15,7 +15,7 @@ Email: [ja4146@nyu.edu](mailto:ja4146@nyu.edu)
 
 <br>
 
-*Below are some of my favorite:*
+**Below are some of my favorite:**
 
 **📋 Langugaes**
 <p align="left">
