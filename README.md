@@ -5,9 +5,8 @@
 
 **🌱 Currently learning about machine translation, software testing, and continuous integration.**
 
-### 📫 How to reach me:
-
-Email: [ja4146@nyu.edu](mailto:ja4146@nyu.edu) or Linkedin: [linkedin.com/in/jladrover](https://www.linkedin.com/in/jladrover)
+**📫 How to reach me:**
+[ja4146@nyu.edu](mailto:ja4146@nyu.edu) or [linkedin.com/in/jladrover](https://www.linkedin.com/in/jladrover).
 
 🙇‍♂️ Feel free to message me.
 
