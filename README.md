@@ -3,7 +3,7 @@
 
 **🔭 Currently working on NLP research regarding multilingual Named Entity Recognition.**
 
-**🌱 Currently learning about machine translation, software testing, and continuous integration.**
+**🌱 Currently learning about machine translation, software testing, and CI/CD.**
 
 **📫 How to reach me:**
 via email: [ja4146@nyu.edu](mailto:ja4146@nyu.edu) or linkedin: [linkedin.com/in/jladrover](https://www.linkedin.com/in/jladrover).
@@ -46,7 +46,6 @@ via email: [ja4146@nyu.edu](mailto:ja4146@nyu.edu) or linkedin: [linkedin.com/in
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
