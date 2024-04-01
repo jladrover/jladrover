@@ -12,7 +12,7 @@ via email: [ja4146@nyu.edu](mailto:ja4146@nyu.edu) or via linkedin: [linkedin.co
 
 <br>
 
-**Below are some of my favorite:**
+**Below are some of my favorite, click to see more:**
 
 **📋 Langugaes**
 <p align="left">
