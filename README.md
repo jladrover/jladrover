@@ -3,7 +3,7 @@
 
 **🔭 Currently working on NLP research regarding multilingual Named Entity Recognition.**
 
-**🌱 Currently learning about machine translation, kubernetes, and MLOps.**
+**🌱 Currently learning about kubernetes and MLOps.**
 
 **📫 How to reach me:**
 via email: [ja4146@nyu.edu](mailto:ja4146@nyu.edu) or via linkedin: [linkedin.com/in/jladrover](https://www.linkedin.com/in/jladrover).
