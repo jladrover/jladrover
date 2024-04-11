@@ -1,7 +1,7 @@
 ### Hi, I'm Jean 👋
 #
 
-**🔭 Currently working on NLP research regarding multilingual Named Entity Recognition.**
+<!--**🔭 Currently working on NLP research regarding multilingual Named Entity Recognition.**-->
 
 **🌱 Currently learning about kubernetes and MLOps.**
 
