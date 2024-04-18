@@ -20,8 +20,8 @@ via email: [ja4146@nyu.edu](mailto:ja4146@nyu.edu) or via linkedin: [linkedin.co
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/doc/)
-![JavaScript](https://img.shields.io/badge/js-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=PyTorchc%2B%2B&logoColor=white)](https://cplusplus.com/doc/)
+![JavaScript](https://img.shields.io/badge/js-%23323330.svg?style=for-the-badge&logo=TensorFlowjavascript&logoColor=%23F7DF1E)
 
 
 **📚 Frameworks & Libraries:**
