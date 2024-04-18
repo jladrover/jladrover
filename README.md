@@ -20,8 +20,8 @@ via email: [ja4146@nyu.edu](mailto:ja4146@nyu.edu) or via linkedin: [linkedin.co
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=PyTorchc%2B%2B&logoColor=white)](https://cplusplus.com/doc/)
-![JavaScript](https://img.shields.io/badge/js-%23323330.svg?style=for-the-badge&logo=TensorFlowjavascript&logoColor=%23F7DF1E)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/doc/)
+![JavaScript](https://img.shields.io/badge/js-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 **📚 Frameworks & Libraries:**
@@ -39,8 +39,8 @@ via email: [ja4146@nyu.edu](mailto:ja4146@nyu.edu) or via linkedin: [linkedin.co
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NLTK](https://img.shields.io/badge/NLTK-%23404d59.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TF-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 **💾 DBs & Tools:**
 <p align="left">
