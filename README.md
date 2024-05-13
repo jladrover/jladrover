@@ -21,7 +21,7 @@ via email: [ja4146@nyu.edu](mailto:ja4146@nyu.edu) or via linkedin: [linkedin.co
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/doc/)
-![JavaScript](https://img.shields.io/badge/js-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<!-- ![JavaScript](https://img.shields.io/badge/js-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)-->
 
 
 **📚 Frameworks & Libraries:**
@@ -40,7 +40,7 @@ via email: [ja4146@nyu.edu](mailto:ja4146@nyu.edu) or via linkedin: [linkedin.co
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NLTK](https://img.shields.io/badge/NLTK-%23404d59.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TF-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<!-- ![TensorFlow](https://img.shields.io/badge/TF-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) -->
 
 **💾 DBs & Tools:**
 <p align="left">
@@ -51,7 +51,7 @@ via email: [ja4146@nyu.edu](mailto:ja4146@nyu.edu) or via linkedin: [linkedin.co
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<!-- ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) -->
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 [![Android](https://img.shields.io/badge/android-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)](https://developer.android.com/studio)
 [![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/blogs/2018/03/23/text-buffer-reimplementation)
