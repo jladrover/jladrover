@@ -6,7 +6,7 @@
 **🌱 Currently learning about kubernetes and MLOps.**
 
 **📫 How to reach me:**
-via email: [ja4146@nyu.edu](mailto:ja4146@nyu.edu) or via linkedin: [linkedin.com/in/jladrover](https://www.linkedin.com/in/jladrover).
+via email: [ja4146@nyu.edu](mailto:ja4146@nyu.edu) or via: [linkedin.com/in/jladrover](https://www.linkedin.com/in/jladrover).
 
 🙇‍♂️ Feel free to message me.
 
