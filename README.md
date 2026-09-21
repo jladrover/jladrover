@@ -3,7 +3,7 @@
 
 <!--**🔭 Currently working on NLP research regarding multilingual Named Entity Recognition.**-->
 
-**🌱 Currently learning Vue & Element Plus.**
+**🌱 Currently learning System Design.**
 
 **📫 How to reach me:**
 via email: [ja4146@nyu.edu](mailto:ja4146@nyu.edu) or via: [linkedin.com/in/jladrover](https://www.linkedin.com/in/jladrover)
